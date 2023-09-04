@@ -14,7 +14,7 @@ install:
   - ls -l
   - cd buildozer
   - ls -l
-  - python3 -.py install
+  - python3 setup.py install
   - ls -l
   - cd ..
   - ls -l
